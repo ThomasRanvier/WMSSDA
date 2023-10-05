@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains the source code used for the pre-print (https://www.researchsquare.com/article/rs-3160713/v1)["Deep Multi-Source Supervised Domain Adaptation with Class Imbalance"].
+This repository contains the source code used for the pre-print ["Deep Multi-Source Supervised Domain Adaptation with Class Imbalance"](https://www.researchsquare.com/article/rs-3160713/v1).
 
 Deep multi-source domain adaptation is based on deep neural networks and exploits knowledge from several source domains to improve predictions on a target domain.
 In this paper we are especially interested in the application of domain adaptation in a context of limited data and class imbalance.
